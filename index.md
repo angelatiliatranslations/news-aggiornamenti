@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Corsi di aggiornamento
+# News / Aggiornamenti
 
-*   2022: **Linguaggio, identità di genere e lingua italiana**, Università Ca’ Foscari di Venezia
-*   2020: **Introduction to Humanitarian Translation for Kató Translators**, Translators without Borders
+Troverai qui gli annunci e gli aggiornamenti importanti legati alla mia attività.
+– Angela
