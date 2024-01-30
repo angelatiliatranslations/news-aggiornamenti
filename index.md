@@ -3,8 +3,6 @@ layout: default
 ---
 # News / Aggiornamenti / Eventi
 
-*   Dicembre 2023: Lettura animata in inglese presso la Scuola Primaria “Divisione Julia” di Arcade (TV)
-
 *   Dicembre 2022: Articolo pubblicato sul blog La galassia del traduttore: <a href="https://www.galassiadeltraduttore.blog/blog/trascrizioni-e-traduzioni-per-larte-limportanza-del-fare-rete-offline-e-dellimparare-da-chi-ci-circonda">Trascrizioni e traduzioni per l’arte: L’importanza del fare rete offline e dell’imparare da chi ci circonda</a>
 
 *   Marzo 2022: Evento organizzato <a href="https://www2.proz.com/powwow/7400?phpv_redirected=1">Un tè tra traduttori. Marzo 2022</a>
